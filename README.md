@@ -1,2 +1,13 @@
-# pysipp-example
-pysipp-example
+# Pysipp Examples
+
+## Install
+
+```bash
+make install
+```
+
+## Run
+
+```bash
+make run
+```
